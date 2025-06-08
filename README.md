@@ -4,4 +4,4 @@
 
 ### yjdyamv
 
-hello, I am a studen from Shenzhen University. 
+hello, I am a student from Shenzhen University. 
